@@ -1,0 +1,1 @@
+El proyecto solicita el largo del array y pide el numero para cada posición, si se repite el numero solicita ingresar otro número, muestra el arreglo original y un menu con los metodos para arreglar el arreglo.
